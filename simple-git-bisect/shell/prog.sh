@@ -2,7 +2,7 @@
 
 
 #
-# This script exits successfully
+# This script returns a failure status code
 #
 
-exit 0
+exit 1
