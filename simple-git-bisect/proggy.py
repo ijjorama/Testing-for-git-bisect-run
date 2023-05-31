@@ -3,8 +3,8 @@
 import sys
 
 #
-# Exit to calling process with a zero status
+# Exit to calling process with a non-zero status
 #
 
-sys.exit(0)
+sys.exit(1)
 
