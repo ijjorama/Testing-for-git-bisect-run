@@ -7,6 +7,7 @@ import sys
 #
 
 # Following non-zero status code indicates failure
+# This corresponds to an errno code
 
 sys.exit(1)
 
