@@ -1,8 +1,8 @@
 #!/usr/bin/bash
-# Yet another version of the failing shell script
+# Change back to successful shell script
 
 #
-# This script returns a failure status code
+# This script returns a success status code
 #
 
-exit 1
+exit 0
